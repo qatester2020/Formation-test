@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ajouter un produit en promo</description>
+   <name>New Test Case (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>862a755c-c588-44fd-bbe6-c70f2586c247</testCaseGuid>
+</TestCaseEntity>
